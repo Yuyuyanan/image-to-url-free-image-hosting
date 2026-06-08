@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yuyuyanan.github.io/image-to-url-free-image-hosting/sitemap.xml
