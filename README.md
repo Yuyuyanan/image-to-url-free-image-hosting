@@ -2,7 +2,7 @@
 
 A small promotional landing project for [Mini-Tools.uk Free Image Hosting](https://mini-tools.uk/upload).
 
-Keywords covered naturally: image to URL, image to link, free image hosting, picture to URL, upload image and get link, Markdown image link, HTML image tag, BBCode image link, ?????, ??? URL, ????, ??????.
+Keywords covered naturally: image to URL, image to link, free image hosting, picture to URL, upload image and get link, Markdown image link, HTML image tag, BBCode image link, 图片转链接, 图片转 URL, 免费图床, 图片外链工具.
 
 ## What It Promotes
 
@@ -22,7 +22,7 @@ This repository is intentionally focused on one use case: turning an image into 
 - upload image get URL
 - Markdown image hosting
 - GitHub README image URL
-- ?????
-- ??? URL
-- ????
-- ??????
+- 图片转链接
+- 图片转 URL
+- 免费图床
+- 图片外链工具
